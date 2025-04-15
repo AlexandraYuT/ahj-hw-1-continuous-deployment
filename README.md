@@ -1,6 +1,6 @@
 # Домашнее задание к занятию «Рабочее окружение»
 
-![CI](https://github.com/Maksim-Gavr-04/ahj_1_continuous_deployment/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/AlexandraYuT/ahj_1_continuous_deployment/actions/workflows/web.yml/badge.svg)
 
 **Важно**: все задачи к данной лекции можно выполнить в виде одного репозитория (т.е. допускается не делать отдельные репозитории на каждую задачу).
 
